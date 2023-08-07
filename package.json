@@ -20,7 +20,7 @@
     "Lua",
     "Roblox"
   ],
-  "author": "",
+  "author": "Luc Rodriguez <luc.rodriguez@seemless.gg> (https://github.com/Shambi-0)",
   "license": "ECL-2.0",
   "types": "out/index.d.ts",
   "files": [
