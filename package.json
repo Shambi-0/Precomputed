@@ -1,6 +1,6 @@
 {
   "name": "@rbxts/precomputed",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Just a collection of commonly used values.",
   "main": "out/init.lua",
   "homepage": "https://github.com/Shambi-0/Precomputed/blob/master/README.md",
